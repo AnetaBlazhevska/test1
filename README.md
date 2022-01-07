@@ -7,3 +7,5 @@ sdeferer
 rghrtfrtfrtffxd
 rfgrtfd
 
+frefgvdb
+git status
